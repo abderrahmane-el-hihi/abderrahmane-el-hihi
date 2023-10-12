@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/abderrahmane-el-hihi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassinejador" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/abderrahmane-el-hihi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abderrahmane-el-hihi" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/abderrahmane-el-hihi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 </p>
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahmane-el-hihi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abderrahmane-el-hihi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abderrahmane-el-hihi&show_icons=true&locale=en&theme=tokyonight" alt="yassinejador" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abderrahmane-el-hihi&show_icons=true&locale=en&theme=tokyonight" alt="abderrahmane-el-hihi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahmane-el-hihi&&theme=tokyonight" alt="abderrahmane-el-hihi" /></p>
